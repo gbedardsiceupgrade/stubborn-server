@@ -33,7 +33,7 @@
   "dependencies": {
     "body-parser": "^1.15.1",
     "chalk": "^2.0.0",
-    "cookie-parser": "^1.4.3",
+    "cookie-parser": "1.4.3",
     "express": "^4.13.4",
     "express-http-proxy": "^1.4.0"
   },
